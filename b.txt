@@ -1,1 +1,2 @@
 Hello from file b.
+Some data.
